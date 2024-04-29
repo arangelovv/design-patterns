@@ -1,0 +1,5 @@
+/Users/alexandar/Documents/design-patterns/build/CMakeFiles/design-patterns.dir
+/Users/alexandar/Documents/design-patterns/build/CMakeFiles/package.dir
+/Users/alexandar/Documents/design-patterns/build/CMakeFiles/package_source.dir
+/Users/alexandar/Documents/design-patterns/build/CMakeFiles/edit_cache.dir
+/Users/alexandar/Documents/design-patterns/build/CMakeFiles/rebuild_cache.dir

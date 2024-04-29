@@ -2,7 +2,6 @@
 
 using namespace std;
 
-void main(){
-
-    cout << "main";
+int main(){
+    cout << "hehe"<<endl;
 }

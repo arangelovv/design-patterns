@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/alexandar/Documents/design-patterns/build",
+  "command": "/usr/bin/clang++   -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/design-patterns.dir/main.cpp.o -c /Users/alexandar/Documents/design-patterns/main.cpp",
+  "file": "/Users/alexandar/Documents/design-patterns/main.cpp",
+  "output": "CMakeFiles/design-patterns.dir/main.cpp.o"
+}
+]
