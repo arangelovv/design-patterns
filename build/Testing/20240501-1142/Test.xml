@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Darwin-clang++"
+	BuildStamp="20240501-1142-Experimental"
+	Name="Alexandars-Air.Dlink"
+	Generator="ctest-3.29.2"
+	CompilerName="/usr/bin/clang++"
+	CompilerVersion="15.0.0.15000100"
+	OSName="macOS"
+	Hostname="Alexandars-Air.Dlink"
+	OSRelease="14.3.1"
+	OSVersion="23D60"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="0"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>May 01 14:42 EEST</StartDateTime>
+		<StartTestTime>1714563768</StartTestTime>
+		<TestList/>
+		<EndDateTime>May 01 14:42 EEST</EndDateTime>
+		<EndTestTime>1714563768</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
